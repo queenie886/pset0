@@ -12,7 +12,7 @@ stages:
 
 env:
   global:
-    - CC_TEST_REPORTER_ID=274e743d0527880526894e0fe71ee84caf29120d144921839c0fc65200bcd65b
+    - CC_TEST_REPORTER_ID=88cc1bcdcfba431a5086830a640e7c9cbe8e89fd48b7286ef26fbb804e6f0a81
 
 jobs:
   include:
