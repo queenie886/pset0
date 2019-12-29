@@ -1,6 +1,10 @@
 # Pset 0
 
-Replace these with your own build badges!
+[![Build Status](https://travis-ci.com/queenie886/pset0.svg?branch=master)](https://travis-ci.com/queenie886/pset0)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/85bd8d1b3dade14894d5/maintainability)](https://codeclimate.com/github/queenie886/pset0/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/85bd8d1b3dade14894d5/test_coverage)](https://codeclimate.com/github/queenie886/pset0/test_coverage)
 
 ## Objectives
 
